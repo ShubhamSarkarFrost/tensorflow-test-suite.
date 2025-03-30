@@ -1,0 +1,4 @@
+tensorflow==2.15.0          # TensorFlow for building and training models
+numpy==1.26.4               # Numerical operations
+pandas==2.2.1               # Data processing and HTML report generation
+matplotlib==3.8.3           # Visualization for pie charts and metrics
